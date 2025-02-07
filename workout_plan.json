@@ -1,0 +1,89 @@
+{
+    "Push": {
+        "exercises": [
+            {
+                "name": "Bench Press",
+                "sets": 4,
+                "reps": 8
+            },
+            {
+                "name": "Overhead Press",
+                "sets": 3,
+                "reps": 10
+            },
+            {
+                "name": "Incline Dumbbell Press",
+                "sets": 3,
+                "reps": 10
+            },
+            {
+                "name": "Lateral Raises",
+                "sets": 4,
+                "reps": 12
+            },
+            {
+                "name": "Tricep Dips",
+                "sets": 3,
+                "reps": 8
+            }
+        ]
+    },
+    "Pull": {
+        "exercises": [
+            {
+                "name": "Pull-ups",
+                "sets": 4,
+                "reps": 8
+            },
+            {
+                "name": "Barbell Row",
+                "sets": 4,
+                "reps": 8
+            },
+            {
+                "name": "Face Pulls",
+                "sets": 3,
+                "reps": 12
+            },
+            {
+                "name": "Hammer Curls",
+                "sets": 3,
+                "reps": 10
+            },
+            {
+                "name": "Deadlifts",
+                "sets": 3,
+                "reps": 6
+            }
+        ]
+    },
+    "Legs": {
+        "exercises": [
+            {
+                "name": "Squats",
+                "sets": 4,
+                "reps": 8
+            },
+            {
+                "name": "Romanian Deadlifts",
+                "sets": 3,
+                "reps": 10
+            },
+            {
+                "name": "Leg Press",
+                "sets": 3,
+                "reps": 12
+            },
+            {
+                "name": "Calf Raises",
+                "sets": 4,
+                "reps": 15
+            },
+            {
+                "name": "Bulgarian Split Squats",
+                "sets": 3,
+                "reps": 10
+            }
+        ]
+    }
+}
