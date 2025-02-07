@@ -42,7 +42,8 @@ Ensure you have Python installed (recommended: Python 3.8+). Then install the re
 
 pip install -r requirements.txt
 
-3️⃣ Upload & Analyze Your Workout Plan
+### 3️⃣ Upload & Analyze Your Workout Plan
+
 Want Chad’s wisdom to elevate your training? Upload your current plan in JSON format:
 
 Format your file as workout_plan.json:
