@@ -48,11 +48,13 @@ Want Chad’s wisdom to elevate your training? Upload your current plan in JSON 
 
 Format your file as workout_plan.json:
 
+```python
 {
     "Monday": {"exercise": "Bench Press", "sets": 5, "reps": 10},
     "Wednesday": {"exercise": "Squats", "sets": 5, "reps": 8},
     "Friday": {"exercise": "Deadlifts", "sets": 5, "reps": 6}
 }
+```
 
 ### 🔧 Customization
 
