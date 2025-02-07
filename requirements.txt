@@ -1,0 +1,7 @@
+langgraph
+langchain_community
+langchain_anthropic
+langchain_experimental
+google-generativeai
+typing-extensions
+ipython
